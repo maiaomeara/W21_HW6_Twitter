@@ -1,0 +1,3 @@
+name: Maia O'Meara
+uniqname: maiao
+GitHub Repo: https://github.com/maiaomeara/W21_HW6_Twitter 
